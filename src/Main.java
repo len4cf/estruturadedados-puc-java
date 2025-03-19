@@ -1,5 +1,4 @@
-import estrutura_dados_array_list.MyArrayList;
-
+import estrutura_de_dados_arraylist.MyArrayList;
 
 public class Main {
     public static void main(String[] args)
