@@ -1,4 +1,4 @@
-package estrutura_dados_array_list;
+package estrutura_de_dados_arraylist;
 
 public class MyArrayList {
 
